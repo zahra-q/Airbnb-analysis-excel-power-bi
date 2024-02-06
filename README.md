@@ -2,9 +2,10 @@
 
 The project uses listing data for Boston, MA from the Airbnb website.
 
-![Uploading airbnb.png…]()
+![airbnb](https://github.com/zahra-q/Airbnb-analysis-excel-power-bi/assets/58932323/62d671b4-2944-477f-9559-17a289b91101)
 
 Data Preparation/Cleaning
+
 
 Since the data was somewhat dirty, we cleaned it by doing the following:
 
